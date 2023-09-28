@@ -1,0 +1,21 @@
+.erro_container{
+    align-items: center;
+    margin: 10px;
+}
+.erro_container_col{
+    text-align: center;
+}
+.erro_container_col span{
+    font-size: 5rem;
+}
+.col_image{
+    height: 30px;
+}
+.erro_container_col a{
+    color: #1a1212;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.erro_container_col a:hover{
+    color: #ffbb33;
+}

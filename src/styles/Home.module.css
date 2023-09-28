@@ -1,0 +1,42 @@
+.container{
+    margin-top: 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222bb;
+    padding: 1em;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.cabecalho span{
+    margin-left: 200px;
+    font-size: 5rem;
+    color: #ffbb33;
+}
+.cabecalho img{
+    height: 100px;
+    margin-bottom: 50px;
+}
+.section_container{
+    margin-top: 150px;
+    text-align: center;
+}
+.section_container img{
+    height: 200px;
+}
+.titulo_p{
+    font-size: 3rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.botao{
+    margin-top: 20px;
+}

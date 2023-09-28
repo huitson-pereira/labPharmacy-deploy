@@ -1,0 +1,33 @@
+.cadMed__container{
+    margin: 5px auto;
+    margin-top: 70px;
+    width: 1200px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: var(--primary-color);
+    align-items: center;
+    border-radius: 20px;
+}
+.cadMed__title {
+    margin-top: 1%;
+    margin-bottom: 1rem;
+    max-width: 400px;
+    text-align: center;
+    font-size: 2rem;
+}
+#cadMed__formgroup{
+    border: 1px solid white;
+    margin-top: 10px;
+    padding: 10px;
+}
+.cadMed__botao__container{
+    margin: 5px 25px 25px 25px;
+    text-align: end;
+}
+.cadMed__botao__container button{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
